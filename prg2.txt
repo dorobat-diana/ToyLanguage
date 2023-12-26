@@ -1,0 +1,315 @@
+Program State ID:7
+ExeStack:
+int a
+(int b
+(a=
+(b=
+print(b))))
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:7
+ExeStack:
+int a
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:7
+ExeStack:
+int a
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:7
+ExeStack:
+int b
+(a=
+(b=
+print(b)))
+SymTable:
+a->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:7
+ExeStack:
+int b
+(a=
+(b=
+print(b)))
+SymTable:
+a->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:7
+ExeStack:
+int b
+SymTable:
+a->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:7
+ExeStack:
+int b
+SymTable:
+a->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:7
+ExeStack:
+a=
+(b=
+print(b))
+SymTable:
+b->0
+a->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:7
+ExeStack:
+a=
+(b=
+print(b))
+SymTable:
+b->0
+a->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:7
+ExeStack:
+a=
+SymTable:
+b->0
+a->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:7
+ExeStack:
+a=
+SymTable:
+b->0
+a->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:7
+ExeStack:
+b=
+print(b)
+SymTable:
+b->0
+a->17
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:7
+ExeStack:
+b=
+print(b)
+SymTable:
+b->0
+a->17
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:7
+ExeStack:
+b=
+SymTable:
+b->0
+a->17
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:7
+ExeStack:
+b=
+SymTable:
+b->0
+a->17
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:7
+ExeStack:
+print(b)
+SymTable:
+b->18
+a->17
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:7
+ExeStack:
+print(b)
+SymTable:
+b->18
+a->17
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:7
+ExeStack:
+Empty Stack
+SymTable:
+b->18
+a->17
+
+Out:
+18
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:7
+ExeStack:
+int a
+(int b
+(a=
+(b=
+print(b))))
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:7
+ExeStack:
+int a
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:7
+ExeStack:
+int a
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:7
+ExeStack:
+int b
+(a=
+(b=
+print(b)))
+SymTable:
+a->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+

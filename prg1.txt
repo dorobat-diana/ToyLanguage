@@ -1,0 +1,6072 @@
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(int v
+(v=2
+print(v)))
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+(v=2
+print(v))
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+(v=2
+print(v))
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+print(v)
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+print(v)
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+(v=2
+print(v))
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+int v
+SymTable:
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+print(v)
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+print(v)
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+v=2
+SymTable:
+v->0
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+print(v)
+SymTable:
+v->2
+
+Out:
+
+FileTable:
+FileTable is empty
+Heap:
+
+
+Program State ID:6
+ExeStack:
+Empty Stack
+SymTable:
+v->2
+
+Out:
+2
+
+FileTable:
+FileTable is empty
+Heap:
+
+
